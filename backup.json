@@ -1,0 +1,16 @@
+{
+  "sx_keepalive_background_time": "1777301098317",
+  "sx_last_save_time": "2026-04-27T14:44:58.326Z",
+  "setItem": "(key, value) => {\n                originalSetItem(key, value);\n                if (key === 'sx_theme_mode') {\n                    checkDark();\n                }\n            }",
+  "sx_theme_app_bg_alpha": "30",
+  "sx_theme_icon_border_color": "#ffffff",
+  "sx_home_widgets": "[]",
+  "sx_widget_initialized": "true",
+  "sx_widget_layout": "[]",
+  "sx_theme_mode": "dark",
+  "sx_theme_app_bg_color": "#1c1c1e",
+  "sx_theme_accent": "#5B8DEF",
+  "sx_theme_text_color": "#ffffff",
+  "sxiphone_lang": "zh-Hant",
+  "sx_chat_last_active": "1777301443821"
+}
